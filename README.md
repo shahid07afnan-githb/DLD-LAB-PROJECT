@@ -216,11 +216,3 @@ Record results while testing the circuit (simulate rising water by closing switc
 ## 13. Conclusion
 
 This project successfully demonstrates a working Digital Water Level Indicator built entirely from combinational logic ICs — a 74HC147 priority encoder, a 74HC04 hex inverter, and a CD4511 BCD-to-7-segment decoder/driver — reinforcing key Digital Logic Design concepts such as priority encoding, active-HIGH/active-LOW logic conversion, and BCD-to-seven-segment decoding. The design is simple, low-cost, and easily simulated in Proteus before hardware implementation, making it a suitable and instructive DLD lab project.
-
-## 14. References
-
-- Muhammad Ansar (MArobotic), "Digital Water Level Display using Encoders-BCD to 7Segment-Hex Inverter," YouTube, Jan 17, 2022. https://www.youtube.com/watch?v=u9fR_JzrfQQ
-- embeddedlab786, "Digital_Water_Level_Display" (Proteus project files), GitHub. https://github.com/embeddedlab786/Digital_Water_Level_Display
-- Texas Instruments, SN54/74LS147 10-Line to 4-Line Priority Encoder Datasheet.
-- Texas Instruments, SN5404/SN7404 Hex Inverter Datasheet.
-- Texas Instruments / ON Semiconductor, CD4511B BCD-to-7-Segment Latch/Decoder/Driver Datasheet.
